@@ -1,8 +1,8 @@
 import React from 'react';
 
 type props = {
-    heading : String,
-    subHeading : String
+    heading : string,
+    subHeading : string
 };
 
 const SectionHeading = ({heading, subHeading}:props) => {

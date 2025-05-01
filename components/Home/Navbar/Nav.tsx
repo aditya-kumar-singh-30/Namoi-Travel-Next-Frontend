@@ -29,7 +29,7 @@ const Nav = ({openNav}:Props) => {
             <TbAirBalloon className="h-6 w-6 text-white" />
           </div>
           <h1 className="text-xl md:text-2xl text-white uppercase font-bold">
-            Trapy
+          Namoi
           </h1>
         </div>
         <div className="hidden lg:flex items-center space-x-10">
